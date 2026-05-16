@@ -1,21 +1,21 @@
 - id: tesla-vla-2026
-  title: "VLA Robotics Demo @ Tesla"
+  title: "Autonomous Robotics Materials Lab Demo"
   organization: "Tesla, Inc."
   date: "April 2026"
-  description: "End-to-end VLA pipeline on SO-101 robotic arm for autonomous materials lab."
+  description: "End-to-end VLA pipeline on robotic arms for autonomous materials lab."
   video: VLA_web.mp4
 
-- id: tesla-welding-2025
-  title: "AI Laser Welding System"
+- id: tesla-robotaxi-2025
+  title: "Tesla Robotaxi Manufacturing"
   organization: "Tesla, Inc."
   date: "Aug 2025"
-  description: "Real-time weld quality prediction using ML on in-process laser signals."
-  # TODO: 把图片放到 images/ 后加一行: image: welding.jpg
-  # 或者放视频: video: welding.mp4
+  description: "Involved in the Tesla Robotaxi manufacturing process, from CAD to the first vehicle off the line."
+  image: cybercab group.jpg
 
-- id: gt-hackathon-2023
-  title: "Georgia Tech Open Hackathon"
-  organization: "Georgia Tech × NVIDIA"
-  date: "May 2023"
-  description: "Accelerated Monte Carlo light-transport simulations on CPUs/GPUs with NVIDIA engineers."
-  # TODO: 把图片放到 images/ 后加一行: image: hackathon.jpg
+- id: tesla-optimus-battery-2026
+  title: "Tesla Optimus Battery Material"
+  organization: "Tesla, Inc."
+  date: "May 2026"
+  description: "Developed novel battery material and process for Optimus - Tesla Bot"
+  image: optimus battery.jpg
+ 

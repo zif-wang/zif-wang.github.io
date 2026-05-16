@@ -35,11 +35,6 @@ title: Zifeng Wang
             Scholar
           </a>
 
-          <a href="https://github.com/{{ site.github_username }}" class="inline-flex items-center text-text-muted hover:text-text font-sans text-sm no-underline">
-            {% include icons/github.html class="w-4 h-4 mr-1.5" %}
-            GitHub
-          </a>
-
           <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="inline-flex items-center text-text-muted hover:text-text font-sans text-sm no-underline">
             <i class="ai ai-linkedin mr-1.5"></i>
             LinkedIn
@@ -56,7 +51,7 @@ title: Zifeng Wang
   <div class="absolute inset-0 bg-surface-muted" style="mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent); -webkit-mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent);"></div>
   <div class="relative max-w-4xl mx-auto px-6">
     <h2 class="font-display text-2xl font-semibold text-text mb-8">Highlights</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-3xl mx-auto">
       {% for highlight in site.data.highlights %}
         {% include highlight.html h=highlight %}
       {% endfor %}

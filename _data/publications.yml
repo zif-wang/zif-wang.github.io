@@ -4,43 +4,31 @@
   category: industry
   description: >-
     Collected real-world data and trained Vision-Language-Action (VLA) models
-    (smolVLA, π0, π0.5, π0-FAST) on a SO-101 robotic arm to enable automated
-    metal sample polishing, inspection, and machine operation (on/off),
-    demonstrating an end-to-end pipeline toward a fully autonomous materials lab.
+    to enable automated lab workflows, demonstrating an end-to-end pipeline toward a fully autonomous materials lab.
   authors:
     - zifeng
+  image: VLA_thumb.jpg
+  image_mouseover: VLA_web.mp4
   awards:
-    - "End-to-End VLA Pipeline"
+    - 
 
-- id: tesla-alloys-gen
-  title: "Generative AI for Alloys Material Design"
+- id: tesla-optimus-battery
+  title: "Tesla Optimus Battery Material Design"
   venue: "Tesla, Inc. — Material Engineering Team, 2026"
   category: industry
   description: >-
-    Developed a Transformer-based generative framework for inverse design of
-    electrical steel alloys. Characterized material performance through
-    mechanical, microstructural, and magnetic testing.
+    Developed novel battery material and process for Optimus - Tesla Bot
+  image: cybercab.jpg
   authors:
     - zifeng
 
-- id: tesla-welding
-  title: "AI-Driven Laser Welding Quality Monitoring System"
+- id: tesla-robotaxi
+  title: "Tesla Robotaxi Manufacturing"
   venue: "Tesla, Inc. — Manufacture Engineering Team, 2025"
   category: industry
   description: >-
-    Developed machine learning models using in-process laser signals to enable
-    real-time prediction of weld quality and defect detection in manufacturing.
-  authors:
-    - zifeng
-
-- id: tesla-manufacturing
-  title: "Manufacturing Process Optimization & Robot Teach-in"
-  venue: "Tesla, Inc. — Manufacture Engineering Team, 2025"
-  category: industry
-  description: >-
-    Optimized joining processes and robotic operations in a low-volume production
-    line for a new vehicle model, including welding, mechanical fastening, and
-    robot teach-in. Conducted FEA of fastener installation to guide design.
+    Involved in the Tesla Robotaxi manufacturing process, from CAD to the first vehicle off the line.
+  image: optimus-v25.jpeg
   authors:
     - zifeng
 
@@ -53,6 +41,7 @@
     integrating SSNEB-derived transition trajectories to accurately predict
     phase-transition kinetics in Ti-alloys, providing high-fidelity guidance
     for metastable phase identification and energy barrier calculation.
+  image: foundation.png 
   authors:
     - zifeng
     - ting_zhu
@@ -65,6 +54,7 @@
     Developed a Graph Neural Network (GNN)–Transformer hybrid framework to
     model drug molecules and accurately predict drug-release kinetics,
     providing guidance for drug molecular design.
+  image: gnn.png
   authors:
     - zifeng
     - ting_zhu
@@ -77,6 +67,7 @@
     Applied universal machine-learning potentials (MLIP) to accurately predict
     structural and electrochemical properties of FeCl₃ as an efficient battery
     cathode material.
+  image: battery.png
   authors:
     - zifeng
     - ting_zhu
@@ -88,6 +79,7 @@
   description: >-
     Combined Molecular Dynamics simulations and Finite Element Analysis with
     TEM experiments to study the mechanical behavior of metal materials.
+  image: disl.jpg
   authors:
     - zifeng
     - ting_zhu
