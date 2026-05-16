@@ -10,15 +10,12 @@
   organization: "Tesla, Inc."
   date: "Aug 2025"
   description: "Real-time weld quality prediction using ML on in-process laser signals."
+  # TODO: 把图片放到 images/ 后加一行: image: welding.jpg
+  # 或者放视频: video: welding.mp4
 
 - id: gt-hackathon-2023
   title: "Georgia Tech Open Hackathon"
   organization: "Georgia Tech × NVIDIA"
   date: "May 2023"
   description: "Accelerated Monte Carlo light-transport simulations on CPUs/GPUs with NVIDIA engineers."
-
-- id: create-x-2023
-  title: "CREATE-X Startup Incubator"
-  organization: "Georgia Tech"
-  date: "Aug 2023"
-  description: "Co-founded ModuScope 3D — affordable, modular micro-scale 3D printers for medical applications."
+  # TODO: 把图片放到 images/ 后加一行: image: hackathon.jpg
