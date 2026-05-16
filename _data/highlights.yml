@@ -3,6 +3,7 @@
   organization: "Tesla, Inc."
   date: "April 2026"
   description: "End-to-end VLA pipeline on SO-101 robotic arm for autonomous materials lab."
+  video: VLA_web.mp4
 
 - id: tesla-welding-2025
   title: "AI Laser Welding System"
