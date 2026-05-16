@@ -1,39 +1,23 @@
-- id: marble-nov-12
-  title: "Marble: A Multimodal World Model"
-  organization: "World Labs"
-  date: "November 2025"
-  description: "A frontier multimodal world model."
-  url: "https://www.worldlabs.ai/blog/marble-world-model"
-  image: "marble-before.png"
-  video: "marble-after.mp4"
+- id: tesla-vla-2026
+  title: "VLA Robotics Demo @ Tesla"
+  organization: "Tesla, Inc."
+  date: "April 2026"
+  description: "End-to-end VLA pipeline on SO-101 robotic arm for autonomous materials lab."
 
-- id: rtfm-oct-16
-  title: "Real-Time Frame Model"
-  organization: "World Labs"
-  date: "October 2025"
-  description: "Explore generated worlds in real-time."
-  url: "https://www.worldlabs.ai/blog/rtfm"
-  image: "rtfm-before.png"
-  video: "rtfm-after.mp4"
+- id: tesla-welding-2025
+  title: "AI Laser Welding System"
+  organization: "Tesla, Inc."
+  date: "Aug 2025"
+  description: "Real-time weld quality prediction using ML on in-process laser signals."
 
-- id: world-labs-dec2024
-  title: "Generating Worlds"
-  organization: "World Labs"
-  date: "December 2024"
-  description: "Transform a single image into an explorable 3D world using generative AI."
-  url: "https://www.worldlabs.ai/blog/generating-worlds"
-  image: "world-labs.jpg"
-  video: "worldlabs-dec2.mp4"
+- id: gt-hackathon-2023
+  title: "Georgia Tech Open Hackathon"
+  organization: "Georgia Tech × NVIDIA"
+  date: "May 2023"
+  description: "Accelerated Monte Carlo light-transport simulations on CPUs/GPUs with NVIDIA engineers."
 
-- id: google-3d-shopping-may2025
-  title: "Generating 3D Products"
-  organization: "Google Research"
-  date: "May 2025"
-  description: "Transforming photos into shoppable 3D products."
-  url: "https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/"
-  image: "google-3d-shopping.jpg"
-  video: "google-3d-products.mp4"
-  tags:
-    - "Generative AI"
-    - "3D Reconstruction"
-    - "Computer Vision"
+- id: create-x-2023
+  title: "CREATE-X Startup Incubator"
+  organization: "Georgia Tech"
+  date: "Aug 2023"
+  description: "Co-founded ModuScope 3D — affordable, modular micro-scale 3D printers for medical applications."

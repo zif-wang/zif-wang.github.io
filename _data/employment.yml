@@ -1,47 +1,24 @@
-- company: World Labs
-  description: Founding Member leading pretraining efforts. Creator of <a href="https://www.worldlabs.ai/blog/rtfm">RTFM</a>.
-  dates: "Jan 2024 - (current)"
-  location: San Francisco, CA
-
-- company: Google
-  description: Research Scientist. Co-built the team and technologies to <a href="https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/">generate 3D assets for products on Google Search</a>.
-  dates: "May 2022 - Jan 2024"
-  location: San Francisco, CA
-
-- company: Google
+- company: Tesla, Inc.
   description: >-
-    Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-    Published <a href="https://nerfies.github.io">Nerfies</a> and <a href="https://hypernerf.github.io">HyperNeRF</a>.
-  dates: "Jun 2020 - Sep 2021"
-  location: Seattle, WA
+    Intern — Material Engineering, Metal and Ceramic Team. Built end-to-end
+    VLA pipelines on SO-101 robotic arm (smolVLA, π0, π0.5, π0-FAST) for
+    autonomous materials lab demo. Developed generative AI for inverse design
+    of electrical steel alloys.
+  dates: "Jan 2026 - Apr 2026"
+  location: Fremont, CA
 
-- company: NVIDIA
+- company: Tesla, Inc.
   description: >-
-    Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-    Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-  dates: "Jul 2019 - Nov 2019"
-  location: Seattle, WA
+    Intern — Manufacture Engineering, Joining Technology Team. Developed
+    ML-based laser welding quality monitoring system and optimized robotic
+    manufacturing processes for a new vehicle model.
+  dates: "Jan 2025 - Aug 2025"
+  location: Fremont, CA
 
-- company: Amazon
-  description: >- 
-    Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
-    Worked on human activity detection.
-  dates: "Jul 2017 - Sep 2017"
-  location: Seattle, WA
-
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
-
-- company: Google
-  description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
-  dates: "May 2013 - Aug 2013"
-  location: Mountain View, CA
-
-- company: Qualcomm
+- company: Georgia Institute of Technology
   description: >-
-    Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
-    Implemented multi-master support for Gerrit Code Review.
-  dates: "May 2012 - Aug 2012"
-  location: Boulder, CO
+    Graduate Research Assistant (advisor: <a href="https://zhuresearch.prism.gatech.edu/">Dr. Ting Zhu</a>).
+    Research on AI for Science: material foundation models, GNN-Transformer
+    drug release prediction, and ML interatomic potentials for battery materials.
+  dates: "Sep 2021 - present"
+  location: Atlanta, GA

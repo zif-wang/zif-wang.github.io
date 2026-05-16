@@ -1,11 +1,23 @@
-- name: University of Washington 
+- name: Georgia Institute of Technology
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Ph.D. in Material Science and Engineering, advised by
+    <a href="https://zhuresearch.prism.gatech.edu/">Dr. Ting Zhu</a>.<br/>
+    Research Area: AI for Science; Material Foundation Models
+  dates: "Sep 2021 - Summer/Fall 2026 (expected)"
 
-- name: University of Illinois at Urbana-Champaign
+- name: Georgia Institute of Technology
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    M.S. in Computational Science and Engineering.<br/>
+    Research Area: Generative AI; VLM, LLM, Deep Reinforcement Learning
+  dates: "Sep 2024 - May 2026"
+
+- name: University of Akron
+  description: >-
+    M.S. in Polymer Science and Polymer Engineering, advised by
+    <a href="https://www.uakron.edu/engineering/CME/faculty/tsige.dot">Dr. Mesfin Tsige</a>.
+  dates: "Sep 2019 - May 2021"
+
+- name: Qingdao University of Science and Technology
+  description: >-
+    B.S. in Polymer Science and Engineering, advised by Dr. Zhanfu Yong.
+  dates: "Sep 2016 - May 2019"
