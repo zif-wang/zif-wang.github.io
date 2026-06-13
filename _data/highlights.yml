@@ -2,7 +2,7 @@
   title: "Autonomous Robotics Materials Lab Demo"
   organization: "Tesla, Inc."
   date: "April 2026"
-  description: "End-to-end VLA pipeline on robotic arms for autonomous materials lab. Home-lab replication demo (Internal Tesla footage omitted due to NDA)."
+  description: "End-to-end VLA pipeline on robotic arms for autonomous materials lab. <em>Simple replication demo (Internal Tesla footage omitted due to NDA).</em>"
   video: VLA_web.mp4
 
 - id: tesla-robotaxi-2025

@@ -4,7 +4,7 @@
   category: industry
   description: >-
     Collected real-world data and trained Vision-Language-Action (VLA) models
-    to enable automated lab workflows, demonstrating an end-to-end pipeline toward a fully autonomous materials lab.
+    to enable automated lab workflows, demonstrating an end-to-end pipeline toward a fully autonomous materials lab. <em>Simple replication demo (Internal Tesla footage omitted due to NDA).</em>
   authors:
     - zifeng
   image: VLA_thumb.jpg
@@ -32,19 +32,19 @@
   authors:
     - zifeng
 
-- id: gt-material-foundation
-  title: "Material Foundation Model Post-training for Phase Transformations"
-  venue: "Georgia Institute of Technology"
-  category: research
-  description: >-
-    Developed a fine-tuning framework for the CHGNet foundation model by
-    integrating SSNEB-derived transition trajectories to accurately predict
-    phase-transition kinetics in Ti-alloys, providing high-fidelity guidance
-    for metastable phase identification and energy barrier calculation.
-  image: foundation.png 
-  authors:
-    - zifeng
-    - ting_zhu
+# - id: gt-material-foundation
+#   title: "Material Foundation Model Post-training for Phase Transformations"
+#   venue: "Georgia Institute of Technology"
+#   category: research
+#   description: >-
+#     Developed a fine-tuning framework for the CHGNet foundation model by
+#     integrating SSNEB-derived transition trajectories to accurately predict
+#     phase-transition kinetics in Ti-alloys, providing high-fidelity guidance
+#     for metastable phase identification and energy barrier calculation.
+#   image: foundation.png 
+#   authors:
+#     - zifeng
+#     - ting_zhu
 
 - id: gt-drug-release
   title: "GNN–Transformer Based Drug Release Model"
